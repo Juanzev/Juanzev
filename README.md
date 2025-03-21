@@ -18,3 +18,5 @@
 
 ### 📊 Estatísticas de Uso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanzev&layout=compact&theme=tokyonight)
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juan-Zevallos&show_icons=true&theme=tokyonight)
+
