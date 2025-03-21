@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Juan Patrick
 
-<!--
-**Juanzev/Juanzev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Tecnologias e Ferramentas que uso:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Cibersegurança](https://img.shields.io/badge/-Cybersecurity-ff2e2e?style=flat-square&logo=Hack%20The%20Box&logoColor=white)
 
-Here are some ideas to get you started:
+📚 **Atualmente estudando:**  
+- Cibersegurança 🔐  
+- Desenvolvimento Web 🌍  
+- Ciência da Computação 🎓  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projetos:**  
+- 🔹 [Pokédex com API](https://github.com/seu-usuario/pokedex)  
+- 🔹 [Mapa Interativo de Desmatamento](https://github.com/seu-usuario/desmatamento-mapa)  
+
+📫 **Me encontre em:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seu-usuario)  
