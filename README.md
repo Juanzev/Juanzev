@@ -12,10 +12,6 @@
 - Desenvolvimento Web 🌍  
 - Ciência da Computação 🎓  
 
-🚀 **Projetos:**  
-- 🔹 [Pokédex com API](https://github.com/seu-usuario/pokedex)  
-- 🔹 [Mapa Interativo de Desmatamento](https://github.com/seu-usuario/desmatamento-mapa)  
-
 📫 **Me encontre em:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/seu-usuario)  
