@@ -17,6 +17,17 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Juanzev)  
 
 ### 📊 Estatísticas de Uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanzev&layout=compact&theme=tokyonight)
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanzev&show_icons=true&theme=tokyonight)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juanzev&show_icons=true&theme=tokyonight"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanzev&layout=compact&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
