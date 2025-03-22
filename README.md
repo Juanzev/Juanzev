@@ -17,21 +17,26 @@
 - 🌍 **Desenvolvimento Web** (HTML, CSS, JavaScript, APIs, Frameworks)
 - 🌐 **Redes de Computadores**  (Protocolos, configuração, segurança de redes, administração de servidores)
 - 🎓 **Ciência da Computação** (Estruturas de Dados, Algoritmos, Sistemas Operacionais)
-### 🎓 Curso Técnico em Informática - IFAM *(Em andamento - Conclusão: 2025)*  
-- Programação Orientada a Objetos (POO)  
-- Programação Web  
-- Sistemas Operacionais  
-- Análise de Sistemas  
-- Estruturas de Dados  
-- Modelagem de Banco de Dados  
-- Informática Avançada  
-- Redes de Computadores  
+## 🎓 Curso Técnico em Informática - IFAM *(Em andamento - Conclusão: 2025)*  
+
+### 💻 **Programação**  
+- Programação Orientada a Objetos (POO) | Programação Web | Estruturas de Dados | Modelagem de Banco de Dados | Programação em banco de Dados
+
+### 🌐 **Sistemas e Redes**  
+- Sistemas Operacionais | Redes de Computadores | Montagem e Manutenção de computadores | Análise de Sistemas 
+
+### 📚 **Conhecimentos Gerais**  
+- Empreendedorismo | Interação Homem-Computador | Relações Interpessoais e Ética | Tópicos Especiais em Computação  
+
+### 🧠 **Áreas Complementares**  
+- Meio Ambiente, Saúde e Segurança | Algoritmos e Lógica de Programação | Inglês Aplicado | Português Aplicado | Matemática Aplicada  
 
 
-📫 **Me encontre em:**  
+## 📫 **Me encontre em:**  
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Juanzev)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juan-patrick-724075300/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juan-patrick-724075300/)                                                                                                            
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanpatrick.pp@gmail.com)                                                                                                                                           
 
 ### 📊 Estatísticas de Uso
 <div align="center">
