@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffeescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Cibersegurança](https://img.shields.io/badge/-Cybersecurity-ff2e2e?style=flat-square&logo=Hack%20The%20Box&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ## 📚 Atualmente estudando
 - 🔐 **Cibersegurança** (Análise de vulnerabilidades, Pentesting, Redes Seguras)
