@@ -13,10 +13,11 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ## 📚 Atualmente estudando
+- 🎓 **Ciência da Computação** (Estruturas de Dados, Algoritmos, Sistemas Operacionais)
 - 🔐 **Cibersegurança** (Análise de vulnerabilidades, Pentesting, Redes Seguras)
 - 🌍 **Desenvolvimento Web** (HTML, CSS, JavaScript, APIs, Frameworks)
 - 🌐 **Redes de Computadores**  (Protocolos, configuração, segurança de redes, administração de servidores)
-- 🎓 **Ciência da Computação** (Estruturas de Dados, Algoritmos, Sistemas Operacionais)
+
 ## 🎓 Curso Técnico em Informática - IFAM *(Em andamento - Conclusão: 2025)*  
 
 ### 💻 **Programação**  
