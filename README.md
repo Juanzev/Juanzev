@@ -17,7 +17,8 @@
 - 🔐 **Cibersegurança** (Análise de vulnerabilidades, Pentesting, Redes Seguras)
 - 🌍 **Desenvolvimento Web** (HTML, CSS, JavaScript, APIs, Frameworks)
 - 🌐 **Redes de Computadores**  (Protocolos, configuração, segurança de redes, administração de servidores)
-
+- 🖥️ **Programação e Frameworks** (Python, JavaScript, desenvolvimento de APIs, frameworks)
+  
 ## 🎓 Curso Técnico em Informática - IFAM *(Em andamento - Conclusão: 2025)*  
 
 ### 💻 **Programação**  
