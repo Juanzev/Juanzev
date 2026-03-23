@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou o Juan Patrick
 
 ## 🚀 Sobre mim
-🎓 Estudante de **Ciência da Computação** (UNINORTE) e **Técnico em Informática** (IFAM).<br>
+🎓 Estudante de **Engenharia de Software** (Fametro) e **formado** no curso **Técnico em Informática** (IFAM).<br>
 🔐 Apaixonado por **Cibersegurança**, **Desenvolvimento Web**, **Banco de dados** e **Desenvolvimento de software**.<br>
 ⚡ Buscando sempre novos desafios e oportunidades para aprender e crescer na área de **Tecnologia**.
 
@@ -13,13 +13,13 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ## 📚 Atualmente estudando
-- 🎓 **Ciência da Computação** (Uninorte - Bacharelado)
+- 🎓 **Engenharia de Software** (Fametro - Bacharelado)
 - 🔐 **Cibersegurança** (Análise de vulnerabilidades, Pentesting, Redes Seguras)
 - 🌍 **Desenvolvimento Web** (HTML, CSS, JavaScript, APIs, Frameworks)
 - 🌐 **Redes de Computadores**  (Protocolos, configuração, segurança de redes, administração de servidores)
 - 🖥️ **Programação e Frameworks** (Python, JavaScript, desenvolvimento de APIs, frameworks)
   
-## 🎓 Curso Técnico em Informática - IFAM *(Em andamento - Conclusão: 2025)*  
+## 🎓 Curso Técnico em Informática - IFAM *(Concluido em 2025)*  
 
 ### 💻 **Programação**  
 - Programação Orientada a Objetos (POO) | Programação Web | Estruturas de Dados | Modelagem de Banco de Dados | Programação em banco de Dados
